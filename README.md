@@ -136,7 +136,7 @@ Smart Exam Proctoring System
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-Exam-Proctoring-System.git
+git clone https:https://github.com/vijaydevverse/Smart-Exam-Proctoring-System
 
 cd Smart-Exam-Proctoring-System
 ```
