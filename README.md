@@ -1,4 +1,4 @@
-## 🎓 Smart Exam Proctoring System
+# 🎓 Smart Exam Proctoring System
 
 <div align="center">
 
